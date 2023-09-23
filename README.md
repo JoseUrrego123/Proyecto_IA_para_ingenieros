@@ -1,4 +1,4 @@
-# Proyecto_IA_para_ingenieros 
+# Proyecto IA para ingenieros 
 ## Miembros del grupo
 
 - José Alejandro Urrego Pabón, CC: 1152471721, Ingeniería Mecánica<br>
