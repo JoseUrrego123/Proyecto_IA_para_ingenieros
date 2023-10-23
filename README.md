@@ -12,7 +12,7 @@ Para acceder facilmente a los datos seguir lo siguiente:
 
 Pueden poner su propio API con su respectiva llave (key) o usar la nuestra ya añadida en el codigo:
 
-'''
+´´´
 !pip install kaggle
 !mkdir ~/.kaggle #Se instala la librería de Kaggle
 !touch ~/.kaggle/kaggle.json
@@ -23,7 +23,7 @@ with open('/root/.kaggle/kaggle.json', 'w') as file:
 !chmod 600 ~/.kaggle/kaggle.json
 !kaggle competitions download -c DontGetKicked
 !unzip DontGetKicked.zip #Se descomprime el archivo .zip donde está el dataset
-'''
+´´´
 
 ## Videos
 
